@@ -1,0 +1,6 @@
+{
+  "name": "CosmoPulse Deep Space Observatory",
+  "description": "Interactive deep space observational telemetry network, 3D planet inspector, real-time ISS orbit tracker, Cupola nadir sensor simulation, and daily astronomical sightings feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
